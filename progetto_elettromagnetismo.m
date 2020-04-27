@@ -50,4 +50,5 @@ for i= 0 : 0.2 : 1000
     legend('Onda incidente','Onda riflessa','Somma onda incidente e onda riflessa','Onda trasmessa');
     grid on
     drawnow
+    //bellllla
 end
